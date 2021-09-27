@@ -1,0 +1,87 @@
+[
+    {
+        "profilePicture": "",
+        "coverPicture": "",
+        "followers": [],
+        "followings": [],
+        "isAdmin": false,
+        "username": "Yami",
+        "email": "yami@gmail.com",
+        "password": "yami123",
+        "createdAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "updatedAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "__v": 0
+    },
+    {
+        "profilePicture": "",
+        "coverPicture": "",
+        "followers": [],
+        "followings": [],
+        "isAdmin": false,
+        "username": "Toto",
+        "email": "toto@gmail.com",
+        "password": "toto",
+        "createdAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "updatedAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "__v": 0
+    },
+    {
+        "profilePicture": "",
+        "coverPicture": "",
+        "followers": [],
+        "followings": [],
+        "isAdmin": false,
+        "username": "Max",
+        "email": "max@gmail.com",
+        "password": "max",
+        "createdAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "updatedAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "__v": 0
+    },
+    {
+        "profilePicture": "",
+        "coverPicture": "",
+        "followers": [],
+        "followings": [],
+        "isAdmin": false,
+        "username": "Mama",
+        "email": "mama@gmail.com",
+        "password": "mama",
+        "createdAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "updatedAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "__v": 0
+    },
+    {
+        "profilePicture": "",
+        "coverPicture": "",
+        "followers": [],
+        "followings": [],
+        "isAdmin": false,
+        "username": "Titi",
+        "email": "titi@gmail.com",
+        "password": "titi",
+        "createdAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "updatedAt": {
+            "$date": "2021-09-27T11:21:44.023Z"
+        },
+        "__v": 0
+    }
+]

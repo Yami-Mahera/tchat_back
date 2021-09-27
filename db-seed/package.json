@@ -1,0 +1,14 @@
+{
+  "name": "db-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "seed": "seed"
+  },
+  "dependencies": {
+    "node-mongo-seeds": "^3.1.0"
+  },
+  "author": "Yami",
+  "license": "ISC"
+}
