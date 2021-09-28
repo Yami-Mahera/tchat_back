@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "env-cmd -f ./.env babel ./index.js -d build",
-    "start": "nodemon --exec babel-node ./index.js",
-    "server": "env-cmd -f ./.env nodemon ./index.js"
+    "start": "nodemon --exec babel-node src/index.js",
+    "server": "env-cmd -f ./.env nodemon src/index.js"
   },
   "author": "Yami-Mahera",
   "license": "ISC",
