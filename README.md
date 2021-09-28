@@ -8,8 +8,8 @@
 
 ## Insert seed data (users ) into mongodb:
 
-Run the service mongodb
-In the folder `db-seed/`: run `npm run seed`
+- Run the service mongodb
+- In the folder `db-seed/`: run `npm run seed`
 
 ## Development server
 
