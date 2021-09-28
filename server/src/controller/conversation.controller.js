@@ -1,6 +1,7 @@
 import Conversation from "./../models/conversation.model";
 import User from "./../models/user.model";
 import { getConversations } from "../repositories";
+
 class ConversationController {
   // new conversation
   async newConversation(req, res) {

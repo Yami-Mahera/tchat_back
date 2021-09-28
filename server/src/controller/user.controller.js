@@ -6,7 +6,7 @@ class UserController {
   async getUsers(req, res) {
     const ownerId = req.headers["userid"];
     try {
-      const conversations = await getConversations(ownerId);
+      await getConversations(ownerId);
       const users = await User.find({
         _id: {
           $ne: ownerId,

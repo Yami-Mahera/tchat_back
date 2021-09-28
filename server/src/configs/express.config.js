@@ -1,5 +1,4 @@
 import express from 'express';
-import bodyParser from 'body-parser';
 import routes from '../routes';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';

@@ -1,5 +1,4 @@
 import User from "../models/user.model";
-import bcrypt from "bcrypt";
 
 class AuthController {
   async signIn(req, res) {

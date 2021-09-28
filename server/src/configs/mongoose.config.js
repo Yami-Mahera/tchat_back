@@ -1,5 +1,6 @@
 import mongoose from 'mongoose';
 import 'dotenv/config';
+
 function mongooseConnection(cb) {
     const database = `${process.env.mongodb_uri}${process.env.database}`;
     mongoose.Promise = global.Promise;
