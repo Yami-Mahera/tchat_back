@@ -1,9 +1,16 @@
 # Application_Tchat
 
-## Installation dev packages:
+*** Clone repositories ***
 
+- **_front-end_**: `https://gitlab.com/yandrianjafy/tchat_front.git`;
+- **_back-end_**: `https://gitlab.com/yandrianjafy/tchat_back.git`;
+
+## Installation dev packages:
+- **_back-end_**:
 1. In the folder `db-seed/`: run `npm install`
 2. In the folder `server/`: run `npm install`
+
+- **_front-end_**:
 3. In the folder `tchat_front/`: run `npm install`
 
 ## Insert seed data (users ) into mongodb:
